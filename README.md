@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=seungmi%20Kim&fontSize=60)  
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=seungmi%20Kim&fontSize=60) <br>
                     ***Hello I'm Seungmi Kim(brandy)🐯***  
 ***I want to be a continuously-growing developer🥰***  
 ***By using Computer Technology, makes the world more better***  
