@@ -19,6 +19,8 @@ Finance,Social,BlockChain,Computer-Science,Music,etc ...
 for growth : https://blog.naver.com/tmdal0303  
 for Tech Study : https://brandycoding.tistory.com/  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungmiKim1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </section>
 
