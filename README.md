@@ -12,7 +12,7 @@ Server : <img src="https://img.shields.io/badge/Jupyter-white?style=flat&logo=Ju
 ### My Interesting 
 Finance,Social,BlockChain,Computer-Science,Music,etc ... 
 
-### Welcome to My Blog 
+### Welcome to My Blog 👋
 for growth : https://blog.naver.com/tmdal0303  
 for Tech Study : https://brandycoding.tistory.com/  
 
