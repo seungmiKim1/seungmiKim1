@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=seungmi%20Kim&fontSize=60)  
-***Hello I'm Seungmi Kim(brandy)!***  
+                    ***Hello I'm Seungmi Kim(brandy)!***  
 ***I want to be a continuously-growing developer***  
 
 ### My Skills  
