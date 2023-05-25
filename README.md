@@ -12,7 +12,7 @@
 Language : <img src="https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=Javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-lightblue?style=flat&logo=Python&logoColor=3776AB"/>  
 Web : <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-lightgreen?style=flat&logo=CSS3&logoColor=1572B6"/><img src="https://img.shields.io/badge/React-blue?style=flat&logo=React&logoColor=#61DAFB"/>        
 Server : <img src="https://img.shields.io/badge/Jupyter-white?style=flat&logo=Jupyter&logoColor=F37626"/> 
-     [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=nestjs.svg&icon_color=%23E7E7E7&title=NestJS&edge_flat=false)][![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%239AD94F&icon=&icon_color=%23E7E7E7&title=TypeORM&edge_flat=false)](https://hits.seeyoufarm.com)
+     [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=nestjs.svg&icon_color=%23E7E7E7&title=NestJS&edge_flat=false)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%239AD94F&icon=&icon_color=%23E7E7E7&title=TypeORM&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### My Interesting 💖
 Finance,Social,BlockChain,Computer-Science,Music,etc ... 
