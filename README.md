@@ -17,10 +17,6 @@ Server : <img src="https://img.shields.io/badge/Jupyter-white?style=flat&logo=Ju
 ### My Interesting 💖
 Finance,Social,BlockChain,Computer-Science,Music,etc ... 
 
-### Welcome to My Blog 👋
-for growth : https://blog.naver.com/tmdal0303  
-for Tech Study : https://medium.com/@tmdal030380
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungmiKim1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
